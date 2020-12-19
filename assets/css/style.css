@@ -526,7 +526,6 @@ nav.navbar.bootsnav .navbar-toggle i{color: #77c47a;}
     font-weight:  300;
     margin-top:  6px;
 }
-/* contact-adress */
 
 /*.contact-add-info */
 .contact-add-info { margin: 42px 0 52px;}
@@ -568,6 +567,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #77c47a;}
     padding: 38px 0;
 }
 .hm-footer-copyright p a {color: #888ea5;}
+
+
+
+
 /*===============================
     Scroll Top
 ===============================*/
